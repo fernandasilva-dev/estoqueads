@@ -1,0 +1,18 @@
+{
+  "name": "estoqueads",
+  "version": "1.0.0",
+  "description": "controle de estoque da disciplina de ADS mod III",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fernanda",
+  "license": "ISC",
+  "dependencies": {
+    "@handlebars/allow-prototype-access": "^1.0.5",
+    "express": "^4.21.2",
+    "express-handlebars": "^8.0.1",
+    "handlebars": "^4.7.8"
+  }
+}
